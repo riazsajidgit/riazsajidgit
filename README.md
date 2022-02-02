@@ -26,4 +26,6 @@
 
 <br>
 <br>
+
+<p align="center" dir="auto"> <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/1a99dc0d18dd58604a418c29f42b76c732fe86f4f23d31397c1928c32c5a5b9f/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d7361616468617878616e"><img src="https://camo.githubusercontent.com/1a99dc0d18dd58604a418c29f42b76c732fe86f4f23d31397c1928c32c5a5b9f/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d7361616468617878616e" alt="Sajid Riaz" data-canonical-src="https://komarev.com/ghpvc/?username=riazsajidgit" style="max-width: 100%;"></a> </p>
 - 🌱 GitHub Account Created in August 2016
