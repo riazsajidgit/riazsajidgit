@@ -1,6 +1,6 @@
 # Hi there, I am Sajid 👋
 
-### I am a Ph.D. Student, Healthcare Researcher, Teacher, and Passionate Cricketer
+### A Ph.D. Student, Healthcare Researcher, Teacher, and Passionate Cricketer
 - 🔭 I’m currently working on image and sound-based anomaly diagnosis in Healthcare and Telecom
 - 🌱 I’m currently learning how to extract impactful insights from raw data using python and google-sheets
 - 👯 I’m looking to collaborate on participating in Hackathons to build solutions that can enable humanity
@@ -28,5 +28,5 @@
 <br>
 
 - 🌱 GitHub Account Created in August 2016    
-<br><br> 
+<br>
 ![](https://komarev.com/ghpvc/?username=riazsajidgit&label=Profile+Views)
