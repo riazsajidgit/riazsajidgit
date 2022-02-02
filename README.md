@@ -15,37 +15,40 @@
 <h2 dir="auto"><i><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Tools and Technologies</i></h2>
 
 <table width="100">
-<tbody><tr>
-    <td align="center" width="190">
-        <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/a36bec52eb8c614228aed15db917d517618655a13bed224ce4b6f78cd00b8fbc/68747470733a2f2f7777772e6a696e672e666d2f636c6970696d672f66756c6c2f35332d3533373637305f707974686f6e2d706e672d66696c652d707974686f6e2d6c6f676f2d706e672e706e67"><img src="https://camo.githubusercontent.com/a36bec52eb8c614228aed15db917d517618655a13bed224ce4b6f78cd00b8fbc/68747470733a2f2f7777772e6a696e672e666d2f636c6970696d672f66756c6c2f35332d3533373637305f707974686f6e2d706e672d66696c652d707974686f6e2d6c6f676f2d706e672e706e67" width="60" height="40" data-canonical-src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png" style="max-width: 100%;"></a>
-    </td>
-    <td align="center" width="190">
-        <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/bdc2eb28d13134d93f2dd2b047a7e3c4a7e4eec6e07f874837637eb5fac6c04f/68747470733a2f2f627574746572636d732e636f6d2f7374617469632f696d616765732f746563685f62616e6e6572732f466c61736b2e706e67"><img src="https://camo.githubusercontent.com/bdc2eb28d13134d93f2dd2b047a7e3c4a7e4eec6e07f874837637eb5fac6c04f/68747470733a2f2f627574746572636d732e636f6d2f7374617469632f696d616765732f746563685f62616e6e6572732f466c61736b2e706e67" data-canonical-src="https://buttercms.com/static/images/tech_banners/Flask.png" style="max-width: 100%;"></a>
-    </td>
-    <td align="center" width="190">
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg"><img src="https://github.com/abranhe/programming-languages-logos/raw/master/src/javascript/javascript.svg" width="60" style="max-width: 100%;"></a>
-    </td>
-    <td align="center" width="190">
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/cplusplus/cplusplus-original.svg" width="60" style="max-width: 100%;"></a>
-    </td>
-     <td align="center" width="190">
-        <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/14904577a74ff9b1809b11553afba6bef933d4957ad91625006b316ff34f59cc/68747470733a2f2f6769742d73636d2e636f6d2f696d616765732f6c6f676f732f31636f6c6f722d6461726b62674032782e706e67"><img src="https://camo.githubusercontent.com/14904577a74ff9b1809b11553afba6bef933d4957ad91625006b316ff34f59cc/68747470733a2f2f6769742d73636d2e636f6d2f696d616765732f6c6f676f732f31636f6c6f722d6461726b62674032782e706e67" width="100" data-canonical-src="https://git-scm.com/images/logos/1color-darkbg@2x.png" style="max-width: 100%;"></a>
-    </td>
-</tr>
+<tbody>
+    <tr>
+        <td align="center" width="190">
+            <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png" style="max-width: 80%;">
+        </td>
+        <td align="center" width="190">
+            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" style="max-width: 80%;">
+        </td>
+        <td align="center" width="190">
+            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" style="max-width: 80%;">
+        </td>
+        <td align="center" width="190">
+            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" style="max-width: 80%;">
+        </td>
+        <td align="center" width="190">
+            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" style="max-width: 80%;">
+        </td>    
+    </tr>
 <tr>
-   <td align="center">
-        <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/f6f986e8481e344792ddd3d38c03fdbeb3873785677fe2de24ec1fb52ff13cda/68747470733a2f2f646f776e6c6f61642e6c6f676f2e77696e652f6c6f676f2f4d7953514c2f4d7953514c2d4c6f676f2e77696e652e706e67"><img src="https://camo.githubusercontent.com/f6f986e8481e344792ddd3d38c03fdbeb3873785677fe2de24ec1fb52ff13cda/68747470733a2f2f646f776e6c6f61642e6c6f676f2e77696e652f6c6f676f2f4d7953514c2f4d7953514c2d4c6f676f2e77696e652e706e67" data-canonical-src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" style="max-width: 100%;"></a>
+   <td align="center" width="190">
+        <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" style="max-width: 100%;">
+    </td>
+    <td align="center" width="190">
+      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" style="max-width: 100%;">
     </td>
     <td align="center">
-        <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/ee8796ce543b111e17e34a70b79843579548835dce5f0ba5bf8f8b2181c59ceb/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f652f65352f54656e736f72466c6f775f4c6f676f5f776974685f746578742e706e67"><img src="https://camo.githubusercontent.com/ee8796ce543b111e17e34a70b79843579548835dce5f0ba5bf8f8b2181c59ceb/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f652f65352f54656e736f72466c6f775f4c6f676f5f776974685f746578742e706e67" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/e/e5/TensorFlow_Logo_with_text.png" style="max-width: 100%;"></a>
+        <img src="https://github.com/bestofjs/bestofjs-webui/raw/master/public/logos/vscode.svg" width="60" style="max-width: 100%;"></a>
     </td>
     <td align="center">
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg"><img src="https://github.com/bestofjs/bestofjs-webui/raw/master/public/logos/vscode.svg" width="60" style="max-width: 100%;"></a>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" style="max-width: 100%;">
     </td>
     <td align="center">
-        <a href="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60" style="max-width: 100%;"></a>
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" style="max-width: 100%;">
     </td>
-    
 </tr>
 </tbody></table>
   
