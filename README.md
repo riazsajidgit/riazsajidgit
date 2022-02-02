@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there, I am Sajid 👋
 
 - 🔭 I’m currently working on image and sound-based anomaly diagnosis in Healthcare and Telecom
 - 🌱 I’m currently learning how to extract impactful insights from raw data using python and google-sheets
