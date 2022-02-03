@@ -8,8 +8,15 @@
 
 - ⚡ Fun fact: Living with a long-term goal that revolves around promoting healthy life-style using my research on science based physical training and early diagnosis of different ailments 
 
-<h3 dir="auto"><a id="user-content-connect-with-me" class="anchor" aria-hidden="true" href="#connect-with-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>LinkedIn Profile:</h3>
-<p dir="auto"><a href="https://www.linkedin.com/in/muhammad-sajid-riaz-b1994816" rel="nofollow"><img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://camo.githubusercontent.com/d659d2bac00c01b42bffbae84bdc121e828b8fecd5b4949ffa2575f5d9e4a371/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="max-width: 100%;"></a>
+<h2 dir="auto"><a id="user-content--connect-with-me" class="anchor" aria-hidden="true" href="#-connect-with-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>🤝🏻 &nbsp;Connect with Me</h2>
+
+<p align="center" dir="auto">
+<a href="https://sites.google.com/view/muhammadsajidriaz" rel="nofollow"><img src="https://img.shields.io/badge/-muhammadsajidriaz.com-3423A6?style=flat&amp;logo=Google-Chrome&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="https://www.linkedin.com/in/muhammad-sajid-riaz-b1994816" rel="nofollow"><img src="https://img.shields.io/badge/-Muhammad%20Sajid%20Riaz-0077B5?style=flat&amp;logo=Linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="mailto:riazsajid@gmail.com"><img src="https://img.shields.io/badge/-riazsajid@gmail.com-D14836?style=flat&amp;logo=Gmail&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="https://instagram.com/saadhaxxan" rel="nofollow"><img src="https://img.shields.io/badge/-@saadhaxxan-E4405F?style=flat&amp;logo=Instagram&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="https://facebook.com/saaadhaxxan" rel="nofollow"><img src="https://camo.githubusercontent.com/fd5c0119e2fd1fba975d92f1786feb4c93b53334ee732e331c2ea18f12775673/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d40736161616468617878616e2d3138373746323f7374796c653d666c6174266c6f676f3d46616365626f6f6b266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-@saaadhaxxan-1877F2?style=flat&amp;logo=Facebook&amp;logoColor=white" style="max-width: 100%;"></a>
+</p>
 <br>
 
 <h2 dir="auto"><i><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Tools and Technologies</i></h2>
