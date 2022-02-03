@@ -14,8 +14,8 @@
 <a href="https://sites.google.com/view/muhammadsajidriaz" rel="nofollow"><img src="https://img.shields.io/badge/-muhammadsajidriaz.com-3423A6?style=flat&amp;logo=Google-Chrome&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="https://www.linkedin.com/in/muhammad-sajid-riaz-b1994816" rel="nofollow"><img src="https://img.shields.io/badge/-Muhammad%20Sajid%20Riaz-0077B5?style=flat&amp;logo=Linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="mailto:riazsajid@gmail.com"><img src="https://img.shields.io/badge/-riazsajid@gmail.com-D14836?style=flat&amp;logo=Gmail&amp;logoColor=white" style="max-width: 100%;"></a>
-<a href="https://instagram.com/saadhaxxan" rel="nofollow"><img src="https://img.shields.io/badge/-@saadhaxxan-E4405F?style=flat&amp;logo=Instagram&amp;logoColor=white" style="max-width: 100%;"></a>
-<a href="https://facebook.com/saaadhaxxan" rel="nofollow"><img src="https://camo.githubusercontent.com/fd5c0119e2fd1fba975d92f1786feb4c93b53334ee732e331c2ea18f12775673/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d40736161616468617878616e2d3138373746323f7374796c653d666c6174266c6f676f3d46616365626f6f6b266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-@saaadhaxxan-1877F2?style=flat&amp;logo=Facebook&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="https://instagram.com/saadhaxxan" rel="nofollow"><img src="https://user-images.githubusercontent.com/66117993/96351903-818a8b00-1084-11eb-96f6-3a931d66fff6.png" width=25 style="max-width: 100%;"></a>
+<a href="https://facebook.com/riazsajid" rel="nofollow"><img src="https://img.shields.io/badge/-@riazsajid-1877F2?style=flat&amp;logo=Facebook&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
 <br>
 
