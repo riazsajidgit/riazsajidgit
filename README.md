@@ -12,7 +12,7 @@
 
 <p align="center" dir="auto">
     <a href="https://www.linkedin.com/in/muhammad-sajid-riaz-b1994816" rel="nofollow"><img src="https://img.shields.io/badge/-Muhammad%20Sajid%20Riaz-0077B5?           style=flat&amp;logo=Linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
-    <a href="https://sites.google.com/view/muhammadsajidriaz" rel="nofollow"><img src="https://img.shields.io/badge/-muhammadsajidriaz.com-98BF64?style=flat&amp;logo=Google-Chrome&amp;logoColor=white" style="max-width: 100%;"></a>
+    <a href="https://sites.google.com/view/muhammadsajidriaz" rel="nofollow"><img src="https://img.shields.io/badge/-muhammadsajidriaz.com-2E8B57?style=flat&amp;logo=Google-Chrome&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="mailto:riazsajid@gmail.com"><img src="https://img.shields.io/badge/-riazsajid@gmail.com-D14836?style=flat&amp;logo=Gmail&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="https://scholar.google.com/citations?user=pmARIxEAAAAJ&hl=en" rel="nofollow"><img src="https://img.shields.io/badge/-Google%20Scholar-0077B5?style=flat&amp;logo=Google-Scholar&amp;logoColor=red" style="max-width: 100%;"></a>
 <a href="https://facebook.com/riazsajid" rel="nofollow"><img src="https://img.shields.io/badge/-@riazsajid-1877F2?style=flat&amp;logo=Facebook&amp;logoColor=white" style="max-width: 100%;"></a>
